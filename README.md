@@ -1,4 +1,4 @@
-# freegeoip
+# freegeoip ![Travis CI](https://img.shields.io/travis/fiorix/freegeoip.svg) ![API Status](http://img.apistatus.org/online/aHR0cDovL2ZyZWVnZW9pcC5uZXQvanNvbi9naXRodWIuY29t.svg)
 
 This is the source code of the freegeoip software. It contains both
 the web server that empowers freegeoip.net, and a package for the
