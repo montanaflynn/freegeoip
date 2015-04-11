@@ -1,4 +1,4 @@
-# freegeoip ![Travis CI](https://img.shields.io/travis/fiorix/freegeoip.svg) ![API Status](http://img.apistatus.org/online/aHR0cDovL2ZyZWVnZW9pcC5uZXQvanNvbi9naXRodWIuY29t.svg)
+# freegeoip [![GoDoc](https://godoc.org/github.com/fiorix/freegeoip?status.svg)](https://godoc.org/github.com/fiorix/freegeoip) ![Travis CI](https://img.shields.io/travis/fiorix/freegeoip.svg) ![API Status](http://img.apistatus.org/online/aHR0cDovL2ZyZWVnZW9pcC5uZXQvanNvbi9naXRodWIuY29t.svg)
 
 This is the source code of the freegeoip software. It contains both
 the web server that empowers freegeoip.net, and a package for the
@@ -112,10 +112,7 @@ The freegeoip package for the Go programming language provides two APIs:
 
 tl;dr if all you want is code then see the `examples_test.go` file.
 
-Otherwise check out the godoc reference.
-
-[![GoDoc](https://godoc.org/github.com/fiorix/freegeoip?status.svg)](https://godoc.org/github.com/fiorix/freegeoip)
-[![Build Status](https://secure.travis-ci.org/fiorix/freegeoip.png)](http://travis-ci.org/fiorix/freegeoip)
+Otherwise check out the [godoc reference](https://godoc.org/github.com/fiorix/freegeoip).
 
 ### Features
 
